@@ -1,0 +1,26 @@
+    body {
+  background-image: url('images/Nukethefour.png');
+    background-repeat: no-repeat;
+  background-attachment: fixed; 
+        text-align: center;
+  background-size: 100% 100%;
+}
+    p {
+  font-size: 50px;
+}
+    .button-class {
+      background-color: #dbcc1f;
+      border: none;
+      color: white;
+      padding: 10px 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+      border-radius: 4px;
+    }
+            h1 {
+      color: white;
+    }
